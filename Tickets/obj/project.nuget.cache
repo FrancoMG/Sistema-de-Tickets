@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCpRI0Ppvnd/hfMm8Wsf8LXDb6Cxcr1p0oisbn0T5Se7CoZbbUFsw6VNM6kpHBdrtHeaJrCD4ffNojLZTc5MFA==",
+  "success": true,
+  "projectFilePath": "E:\\ET35\\2019\\Practicas Profesionalizantes\\Radio de la Ciudad\\Tickets\\Tickets.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\system.data.odbc\\6.0.1\\system.data.odbc.6.0.1.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

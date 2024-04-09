@@ -1,0 +1,84 @@
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmMenu.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.Resources.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.GenerateResource.cache
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.AssemblyInfo.vb
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\Tickets.exe
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\Tickets.deps.json
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\Tickets.runtimeconfig.json
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\Tickets.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\Tickets.pdb
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.dll
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\refint\Tickets.dll
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.pdb
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.genruntimeconfig.cache
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\ref\Tickets.dll
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmBorrarUsuario.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmCrearUsuario.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmEliminarTickets.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmListaTickets.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmLista.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmOtrosTicketsAdmin.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmVerTodosTickets.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmAccionesUsuario.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmConsultaTicketUsuario.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmOtrosTicketsUsuario.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmTicket.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmTicketsUsuario.resources
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmConsultaTicketOtrosUsuarios.resources
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.CopyComplete
+C:\Users\franc\Desktop\Tickets\obj\Debug\net6.0-windows\Tickets.frmAccionesAdministrador.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\Tickets.exe
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\Tickets.deps.json
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\Tickets.runtimeconfig.json
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\Tickets.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\Tickets.pdb
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.AssemblyReference.cache
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmAccionesAdministrador.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmBorrarUsuario.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmCrearUsuario.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmEliminarTickets.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmListaTickets.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmLista.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmOtrosTicketsAdmin.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmVerTodosTickets.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmAccionesUsuario.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmConsultaTicketUsuario.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmOtrosTicketsUsuario.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmTicket.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmTicketsUsuario.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmConsultaTicketOtrosUsuarios.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.frmMenu.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.Resources.resources
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.GenerateResource.cache
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.AssemblyInfoInputs.cache
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.AssemblyInfo.vb
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.CoreCompileInputs.cache
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.vbproj.CopyComplete
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\refint\Tickets.dll
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.pdb
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\Tickets.genruntimeconfig.cache
+E:\ET35\2019\Practicas Profesionalizantes\Radio de la Ciudad\Tickets\obj\Debug\net6.0-windows\ref\Tickets.dll

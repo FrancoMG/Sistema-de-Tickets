@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Acciones administrador\AccionesaAdministrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones administrador\BorrarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones administrador\CrearUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones administrador\EliminarTickets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones administrador\ListaTickets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones administrador\ListaUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones administrador\OtrosTicketsAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones administrador\VerTodosTickets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones usuario\AccionesUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones usuario\ConsultaTicketUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones usuario\OtrosTicketsUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones usuario\Ticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Acciones usuario\TicketsUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultaTicketOtrosUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
