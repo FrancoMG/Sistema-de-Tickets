@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Tickets"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c52c3b4017e84a3e89a3fdab243d83cc0449f2d"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Tickets"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Tickets"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

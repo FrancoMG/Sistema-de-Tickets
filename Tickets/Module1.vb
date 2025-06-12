@@ -1,12 +1,13 @@
-﻿Imports System.Data.Common
-Imports System.Data.Odbc
+﻿'Imports System.Data.Odbc
+'Imports System.Data.Common
+Imports System.Data.SQLite
 Module Module1
 
-    Public cnn As OdbcConnection
-    Public cmd As OdbcCommand
-    Public rs As OdbcDataReader
-    Public rs2 As OdbcDataReader
-    Public rs3 As OdbcDataReader
+    Public cnn As SQLiteConnection
+    Public cmd As SQLiteCommand
+    Public rs As SQLiteDataReader
+    Public rs2 As SQLiteDataReader
+    Public rs3 As SQLiteDataReader
     Public sql As String
     Public nombreadmin As String
     Public nombreusuario As String
@@ -16,17 +17,17 @@ Module Module1
 
     Public Sub ejecutar(ByVal consulta As String)
 
-        cmd = New OdbcCommand(consulta, cnn)
+        cmd = New SQLiteCommand(consulta, cnn)
         cmd.CommandType = CommandType.Text
 
         If switch = 1 Then
-            rs = cmd.ExecuteReader
+            rs = cmd.ExecuteReader()
 
         ElseIf switch = 2 Then
-            rs2 = cmd.ExecuteReader
+            rs2 = cmd.ExecuteReader()
 
         ElseIf switch = 3 Then
-            rs3 = cmd.ExecuteReader
+            rs3 = cmd.ExecuteReader()
 
         End If
 
@@ -35,8 +36,8 @@ Module Module1
     End Sub
 
     Public Sub connection()
-Try
-            cnn = New OdbcConnection("DSN=TICKETS")
+        Try
+            cnn = New SQLiteConnection("Data Source=Base Tickets.db;Version=3;")
             cnn.Open()
 
         Catch ex As Exception
@@ -49,11 +50,11 @@ Try
     Public Function llenarGrilla(ByVal sql As String) As DataTable
 
         Dim ds As DataSet
-        Dim adp As OdbcDataAdapter
+        Dim adp As SQLiteDataAdapter
 
         ds = New DataSet("Tabla")
         ds.Tables.Add("Tabla")
-        adp = New OdbcDataAdapter(sql, cnn)
+        adp = New SQLiteDataAdapter(sql, cnn)
         adp.Fill(ds.Tables("Tabla"))
 
         Return ds.Tables("Tabla")
